@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:27-11-2024
+## Register Number:24900809
+## Name:YUVASHREE R
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -9,17 +9,55 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 ## Problem Creater's Organization
 Government of Gujarat
 
-## Idea
+## Idea:
+Improving alumni relations: The platform can help alumni stay connected with the university and other alumni.
+Increasing donations: The platform can help increase the number of benefactors.
+Providing networking opportunities: The platform can help alumni network with each other and with the university.
+Sharing success stories: The platform can help alumni share their success stories. 
+Here are some other ways to improve alumni engagement:
+Promote alumni work: Highlight the accomplishments of alumni. 
+Host hybrid events: Consider hosting a mix of in-person and virtual events. 
+Show where donations go: Make it clear where donations go. 
+Provide professional development: Offer opportunities for professional development. 
+Support well-being: Offer support for the well-being of alumni. 
+Bring in alumni mentors: Connect alumni with students to guide them. 
+Alumni associations can help universities in many ways, including:
+Supporting the university: Alumni can support the university's efforts to improve by donating money, volunteering, and attending events. 
+Sharing corporate knowledge: Alumni can share their corporate knowledge and networks to help inform program development. 
+Enhancing reputation: Alumni can help enhance the university's reputation. 
 
 
-## Proposed Solution / Architecture Diagram
+## Proposed Solution / Architecture Diagram:
+![image](https://github.com/user-attachments/assets/3fc9b9c0-0ae9-4f95-a55c-6c3f657f39f6)
 
 
-## Use Cases
+
+## Use Cases:
+![image](https://github.com/user-attachments/assets/8c2f4b78-e4e6-41f4-b61e-e306aaedf8c1)
 
 
-## Technology Stack
+
+## Technology Stack:
+```
+React.js
+Angular
+Bootstrap
+Tailwind CSS
+Node.js
+Python
+PostgreSQL
+MongoDB
+Firebase Authentication
+Stripe or Razorpay
+AWS S3
+GitHub Actions or Jenkins
+```
 
 
-## Dependencies
+## Dependencies:
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.50,000
 
